@@ -1,3 +1,3 @@
 # Java Examples
 
-These are some exercises I did in Java for college.
+These are some exercises I did in Java.
